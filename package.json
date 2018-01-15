@@ -1,0 +1,25 @@
+{
+  "name": "ectro",
+  "version": "1.0.0",
+  "description": "A timer application.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buoyantair/ectro.git"
+  },
+  "keywords": [
+    "timer",
+    "electron",
+    "vue",
+    "productivity"
+  ],
+  "author": "buoyantair",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/buoyantair/ectro/issues"
+  },
+  "homepage": "https://github.com/buoyantair/ectro#readme"
+}
